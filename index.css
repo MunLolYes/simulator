@@ -1,0 +1,17 @@
+.sus-btn{
+    background-color: black;
+    border: none;
+    color: white;
+    width: 300px;
+    height: 42px;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    transition: height .1s, width .1s;
+}
+
+.sus-btn:hover{
+    width: 310px;
+    height: 42px;
+}
